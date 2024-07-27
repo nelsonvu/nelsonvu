@@ -38,9 +38,9 @@
 
 **🤝 Connect with me**
 
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/namhoaivu72/">
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/namhoaivu72">
     <img src="./assets/linkedin.svg" height="25px"><a>
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/namhoaivu72/">
+<a style="margin-left: 10px;"  target="_blank" href="https://discordapp.com/users/653506307952869386">
     <img src="./assets/discord.svg" height="25px"><a>
 <a style="margin-left: 10px;"  target="_blank" href="https://t.me/nelsonvu">
     <img src="./assets/telegram.svg" height="25px"><a>
